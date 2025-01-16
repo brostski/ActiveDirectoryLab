@@ -23,7 +23,7 @@ This project is an Active Directory home lab setup on a personal computer using 
 
 <p align="center">
 Setup VirtualBox: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://github.com/brostski/ActiveDirectoryLab/blob/main/Screenshot%202025-01-16%20140245.png)"/>
 <br />
 <br />
 Install Server 2019 on the Domain Controlle:  <br/>
