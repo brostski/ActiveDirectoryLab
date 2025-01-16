@@ -23,43 +23,43 @@ This project is an Active Directory home lab setup on a personal computer using 
 
 <p align="center">
 Setup VirtualBox: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
+<img src="https://i.imgur.com/tzkPWLq.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
-Install Server 2019 on the Domain Controlle:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Server 2019 on the Domain Controller:  <br/>
+<img src="https://i.imgur.com/ldtmmLF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure Network Adapters for the Domain Controller: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UFJoHjV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure Routing and NAT on the Domain Controller:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rc8Lzmr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setup Active Directory and Domain on Server:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gxualO4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure DHCP on the Domain Controller:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="blob:https://imgur.com/f294309a-544f-45d4-bff4-a73cab48db96" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create PowerShell Script for User Creation:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GNrVkLQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
 Create and Configure the Client 1 VM:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/78G2yTS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Login to Client 1 Using a Domain User:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mEPmFeV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify Network and Domain Connection:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l8Kdu0m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
