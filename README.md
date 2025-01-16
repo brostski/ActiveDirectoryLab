@@ -43,7 +43,7 @@ Setup Active Directory and Domain on Server:  <br/>
 <br />
 <br />
 Configure DHCP on the Domain Controller:  <br/>
-<img src="blob:https://imgur.com/f294309a-544f-45d4-bff4-a73cab48db96" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/Y6yMzvs.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 Create PowerShell Script for User Creation:  <br/>
